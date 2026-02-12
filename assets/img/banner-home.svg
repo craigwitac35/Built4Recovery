@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="600" viewBox="0 0 1400 600" fill="none">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1400" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff6a00" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#0f1318" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="600" fill="url(#g1)"/>
+  <g opacity="0.22" stroke="white">
+    <path d="M0 440C260 280 440 300 700 440C960 580 1140 560 1400 420"/>
+    <path d="M0 360C260 200 440 220 700 360C960 500 1140 480 1400 340"/>
+  </g>
+  <text x="80" y="120" fill="#fff" fill-opacity="0.9" font-size="48" font-family="Arial, Helvetica, sans-serif" font-weight="700">Built4Recovery Banner</text>
+  <text x="80" y="174" fill="#fff" fill-opacity="0.72" font-size="26" font-family="Arial, Helvetica, sans-serif">Placeholder art — replace with your own image anytime.</text>
+</svg>
