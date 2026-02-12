@@ -366,3 +366,23 @@ textarea.input{ min-height:120px; resize:vertical; }
   .nav-links.open{ display:flex; }
   .nav-links a{ padding:12px 12px; }
 }
+
+.post-card h3 a{
+  text-decoration:none;
+}
+.post-card h3 a:hover{
+  color:var(--accent);
+}
+.featured-image{
+  width:100%;
+  border-radius:14px;
+  margin:0 0 16px;
+  border:1px solid rgba(255,255,255,.1);
+}
+#postBody img{
+  max-width:100%;
+  border-radius:12px;
+}
+#postBody a{
+  color:var(--accent);
+}
