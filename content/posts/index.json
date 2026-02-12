@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "rebuild-through-routine",
+    "title": "Rebuild Through Routine",
+    "date": "2026-02-12",
+    "description": "Simple routines create stability when motivation fades.",
+    "tags": [
+      "Discipline",
+      "Recovery",
+      "Habits"
+    ],
+    "featured_image": "",
+    "draft": false,
+    "filepath": "content/posts/rebuild-through-routine.md"
+  },
+  {
+    "slug": "stack-small-wins",
+    "title": "Stack Small Wins",
+    "date": "2026-02-10",
+    "description": "A small win repeated daily is stronger than a big promise once a month.",
+    "tags": [
+      "Mindset",
+      "Consistency"
+    ],
+    "featured_image": "",
+    "draft": false,
+    "filepath": "content/posts/stack-small-wins.md"
+  }
+]
